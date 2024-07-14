@@ -1,16 +1,18 @@
 ## Hi there 👋
 
-<!--
-**LenaPakulina/LenaPakulina** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#### Java-разработчик
 
-Here are some ideas to get you started:
+#### Обо мне
+* Коммерческий опыт разработки 4 года
+* [telegram](https://t.me/paakula)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<b>Технологии:</b>
+
+![tech01.png](/img/tech01.png)
+
+| # | Проекты                                                              | Технологии                                           | Сборка                                                                                                                   |
+|---|----------------------------------------------------------------------|------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------|
+| 1 | [Social Media API](https://github.com/LenaPakulina/social_media_api) | Spring Boot, Rest Api, Spring Security, Spring Data  | ![Build Status](https://github.com/LenaPakulina/job4j_social_media_api/actions/workflows/maven.yml/badge.svg?event=push) |
+| 2 | [Dream Job](https://github.com/LenaPakulina/dreamjob)                | Spring Boot, Postgres, JDBC, Liquibase, H2, Thymeleaf|                                                                                                                          |
+| 3 | [Microservices](https://github.com/LenaPakulina/Microservices)       | Spring Boot, Spring Cloud, OpenFeign                 |                                                                                                                          |
+| 4 | [RichManBot](https://github.com/LenaPakulina/RichManBot)             | Spring Boot, Telegram Bot Api, Spring Data           |                                                                                                                          |
